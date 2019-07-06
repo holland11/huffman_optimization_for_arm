@@ -1,4 +1,5 @@
 txt_files/pg-combined.txt
 output.bin
 output.txt
+huffman_start
 *.o
