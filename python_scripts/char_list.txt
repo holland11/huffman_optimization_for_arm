@@ -1,0 +1,9 @@
+- e t a o n h i s r d l u _ m c w f g y , p b . v k I T A H M S W B P x E C j N q O R D L G F J Y z V K U X Q Z 
+e t a o i n s r h l d c u m f p g w y b v k x j q z 
+
+# "-" == \s (space)
+# "_" == \n (newline)
+# first line is my findings from the text files i used
+# second line is from googling "letter frequency english language"
+# they are quite similar with a few differences that only shift any given letter a few positions
+# my list also includes capital letters, spaces, periods, newlines and commas
